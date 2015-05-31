@@ -11,7 +11,6 @@ Authors
 * Milad Khandouzy   (m.khandouzy@smartarts.ir) and 
 * Nima Azizzadeh	(n.azizzadeh@smartarts.ir)
 
-Special Thanks to Dr. Nasour Bagheri
 
 University of Tehran, Kish International Campus
 

@@ -4,7 +4,6 @@
 |  https://eprint.iacr.org/2013/404.pdf                                                                                 |
 =========================================================================================================================
 Copyright (c) 2015 Milad Khandouzy (m.khandouzy@smartarts.ir) and Nima Azizzadeh (n.azizzadeh@smartarts.ir)
-Special Thanks to Dr. Nasour Bagheri
 
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
@@ -22,7 +21,7 @@ typedef uint64_t u64;
 typedef uint32_t u32;
 
 static u8 z[62] =
-{1,1,0,1,1,0,1,1,1,0,1,0,1,1,0,0,0,1,1,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,1,1,1,1};
+{1,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,0,0,0,1,0,0,1,0,1,0,1,1,0,0,0,0,1,1,1,0,0,1,1,0};
 
 void KeyExpansion ( u16 k[] )
 {

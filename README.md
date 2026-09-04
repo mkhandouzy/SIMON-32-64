@@ -8,11 +8,10 @@ Rounds:     32
 Authors
 -------
 
-* Milad Khandouzy   (m.khandouzy@smartarts.ir) and 
-* Nima Azizzadeh	(n.azizzadeh@smartarts.ir)
+* Milad Khandouzy   (m.khandouzy@smartarts.ir)
 
 
-University of Tehran, Kish International Campus
+University of Tehran
 
 Documentation
 -------------
